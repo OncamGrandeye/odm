@@ -1,0 +1,6 @@
+*.vc110.sdf
+*.vc110.opensdf
+**/obj
+**/bin
+libs/bccrypto-net-1.7-src-ext/doc
+
